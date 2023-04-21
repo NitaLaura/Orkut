@@ -1,0 +1,89 @@
+header{
+	background-color: white;
+}
+
+header div{
+	text-align: center;
+}
+
+.imagem1{
+	width: 300px;
+	height: 180px;
+	align: center;
+}
+
+.imagem2{
+	width: 350px;
+	height: 150px;
+}
+
+.imagem3{
+	width: 250px;
+	height: 250px;
+}
+
+body{
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+}
+
+main {
+ 	width: 95%;
+ 	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	background-color: #F9B7D1;
+}
+
+h2 {
+  	text-align: center;
+  	background: linear-gradient(68.15deg, #8B008B 16.62%, #FF00FF 85.61%);
+  	color: white;
+  	padding: 5px;
+  	font-size: 40px;
+}
+
+h3 {
+  	text-align: center;
+  	color: white;
+  	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
+  	padding: 5px;
+  	font-size: 30px;
+}
+
+p, .imagem2 {
+	display: inline-block;
+}
+
+p {
+	text-align: left;
+  	color: white;
+  	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
+  	font-size: 30px;
+  	margin-left: 15px;
+}
+main div img{
+	padding-left: 39px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	width: 100px;
+	height: 125px;
+	align: center;
+}
+
+figcaption{
+	color: #87007D;
+	text-align: center;
+	font-size: 14px;
+}
+
+footer{
+	background: white;
+	padding: 10px 3px;
+	text-align: right;
+	position: absolut;
+	bottom: 10;
+	color: #8B008B;
+}
